@@ -1,1 +1,1 @@
-# face-recognization-using-eigen-values
+# Face recognization using PCA and SVM kernel
